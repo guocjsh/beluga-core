@@ -10,7 +10,11 @@
     <version>1.0.1.RELEASE</version>
 
     <modules>
-        <module>beluga-notice</module>
+        <module>beluga-core-notice</module>
+        <module>beluga-core-oss</module>
+        <module>beluga-core-common</module>
+        <module>beluga-core-pay</module>
+        <module>beluga-boot-starter</module>
     </modules>
 
     <parent>
